@@ -1,0 +1,5 @@
+Debug/
+build/
+.vs/
+fbx_convert_prog/Debug/
+fbx_convert_prog/x64
